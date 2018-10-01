@@ -9,3 +9,5 @@ let g:airline#extensions#tabline#buffer_nr_show = 1
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_highlighting_cache = 1
+
+let g:ycm_key_invoke_completion = '<C-K>'
