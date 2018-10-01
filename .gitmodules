@@ -1,3 +1,6 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/vim-webostv-dev"]
+	path = bundle/vim-webostv-dev
+	url = http://mod.lge.com/hub/tv_scm_tool/vim-webostv-dev.git
