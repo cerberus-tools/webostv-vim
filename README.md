@@ -68,3 +68,14 @@ MODULE_NAM=MODULE_VERSION
 ### Airline
 * https://github.com/vim-airline/vim-airline
 * Status/Tabline tools
+
+### gutantag_plus
+* Links
+  * https://github.com/skywind3000/gutentags_plus
+  * https://github.com/ludovicchabant/vim-gutentags
+* Required Tools 
+  * https://ctags.io/
+  * https://www.gnu.org/software/global/
+* Install
+  * [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags#how)
+  * [gutentags_plus](https://github.com/skywind3000/gutentags_plus#installation)
